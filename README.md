@@ -1,7 +1,10 @@
 ### Hi there 👋
-My name is Victor! 🙍🏻‍♂️
-And i go to the interesting world of programming! 💻
-My direction is Java EE! ☕️
+
+- My name is Victor! 🙍🏻‍♂️
+
+- And i go to the interesting world of programming! 💻
+
+- My direction is Java EE! ☕️
 
 <!--
 **SolomonVp/SolomonVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
