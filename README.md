@@ -4,7 +4,7 @@
 
 - And i go to the interesting world of programming! 💻
 
-- My direction is Java EE! ☕️
+- My direction is Java Web! ☕️
 
 ![imgonline-com-ua-Resize-2d2mRhSXiNRoTO](https://user-images.githubusercontent.com/70300652/144975909-4cb0a906-06a3-40d8-ba6b-3ebfea07f67a.jpg)
 
